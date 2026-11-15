@@ -33,13 +33,14 @@ The project follows these steps:
 
 The theoretical mean and standard deviation of the sample mean are:
 
-\[
-E(\bar X)=\mu
-\]
+$$
+E(\bar{X}) = \mu
+$$
 
-\[
-SD(\bar X)=\frac{\sigma}{\sqrt n}
-\]
+$$
+SD(\bar{X}) = \frac{\sigma}{\sqrt{n}}
+$$
+
 
 where:
 
